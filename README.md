@@ -1,6 +1,6 @@
 # DownDraft
 
-<img title="" src="images/DownDraft.png" alt="" width="480" style="display: block; margin: 0 auto">
+<img title="" src="Images/DownDraft.png" alt="" width="480" style="display: block; margin: 0 auto">
 
 DownDraft is a modular, general-purpose toolhead system for Voron Trident, V2, Legacy, and Switchwire printers. It is designed to give builders more ﬂexibility in component choice, cleaner cable routing, and easier long-term maintenance.
 
