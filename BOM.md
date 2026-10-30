@@ -31,7 +31,9 @@ For recommended hardware, e.g. fans, see the HARDWARE_COMPATIBILITY_LIST.md file
 ## 5015 Parts
 
 2 x 5015 Blower fans (6K+ rpm recommended)
+
 2 x M3x20mm BHCS/SHCS (with fan spacer)
+
 2 x M3x16mm BHCS/SHCS (without fan spacer)
 
 ## 4010 Parts
