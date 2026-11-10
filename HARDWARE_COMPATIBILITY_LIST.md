@@ -79,7 +79,7 @@ Always select the highest rpm available. This is particularly important with GDS
 
 #### 4010 Blower Fans:
 
-- GDStime 4010
+- GDStime 4010 (12000 rpm)
 
 - Vindr 4010
 
